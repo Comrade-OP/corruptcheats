@@ -50,7 +50,7 @@
 "a9_on" : "/data/data/com.android.chrome/files/images/ext com.pubg.krmobile 29430760 0 libUE4.so F ONE ON",
 "aa9_on" : "nothing",
 "a9_off" : "/data/data/com.android.chrome/files/images/ext com.pubg.krmobile 29430760 0 libUE4.so F ONE OFF",
-"aa3_on" : "nothing",
+"aa9_off" : "nothing",
 "a10_on" : "/data/data/com.android.chrome/files/images/ext com.pubg.krmobile 58850480 254.70928955078 libUE4.so F ONE ON",
 "aa10_on" : "nothing",
 "a10_off" : "/data/data/com.android.chrome/files/images/ext com.pubg.krmobile 58850480 254.70928955078 libUE4.so F ONE OFF",
