@@ -1,0 +1,11 @@
+{"tt" : "THE CRUEL ZONE",
+"mt" : "https://drive.google.com/u/0/uc?id=1-V8mci8y-7RU98-umMqpIxVuvb-UkSnn&export=download",
+"path" : "/storage/emulated/0/Android/data/org.telegram.messenger/cache",
+"bts" : "TheCruelZone",
+"f" : "u",
+"tg" : "https://t.me/TheTczTeam",
+"jn" : "hghhjhddsgjjjj",
+"cr" : "Copyright 2021-2031 @TheTczTeam",
+"vc" : "Servers Off Injector New Update Coming Soon Support 1.3 Version Pubg. 
+
+Telegram :- @TheTczTeam"}
