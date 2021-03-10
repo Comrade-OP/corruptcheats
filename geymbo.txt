@@ -1,7 +1,7 @@
 {"tt" : "THE CRUEL ZONE",
 "mt" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
 "path" : "/storage/emulated/0/Android/data/org.telegram.messenger/cache",
-"bts" : "@TheTczTeam",
+"bts" : "TheTczTeam",
 "f" : "f",
 "tg" : "https://t.me/TheTczTeam",
 "jn" : "hghhjhddsgjjjj",
