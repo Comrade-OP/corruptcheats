@@ -51,8 +51,8 @@
 "aa9_on" : "nothing",
 "a9_off" : "COSSHAIR_OFF",
 "aa9_off" : "nothing",
-"a10_on" : "WIDE 50",
+"a10_on" : "nothing",
 "aa10_on" : "nothing",
-"a10_off" : "WIDE_OFF",
+"a10_off" : "nothing",
 "aa10_off" : "nothing",
 "ff9" : "/storage/emulated/0/Android/data/org.telegram.messenger/cache/50000000.jpg"}
