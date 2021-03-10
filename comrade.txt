@@ -51,7 +51,7 @@
 "aa9_on" : "nothing",
 "a9_off" : "30055256 0 libUE4.so F ONE OFF",
 "aa9_off" : "nothing",
-"a10_on" : "59245136 254.70928955078 libUE4.so F ONE ON",
+"a10_on" : "59245136 220 libUE4.so F ONE ON",
 "aa10_on" : "nothing",
 "a10_off" : "59245136 220 libUE4.so F ONE OFF",
 "aa10_off" : "nothing",
