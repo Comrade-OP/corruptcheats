@@ -51,7 +51,7 @@
 "aa9_on" : "nothing",
 "a9_off" : "COSSHAIR_OFF",
 "aa9_off" : "nothing",
-"a10_on" : "WIDE 150",
+"a10_on" : "WIDE 50",
 "aa10_on" : "nothing",
 "a10_off" : "WIDE_OFF",
 "aa10_off" : "nothing",
