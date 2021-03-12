@@ -90,5 +90,5 @@
 "gla10_on" : "59245232 220 libUE4.so F ONE ON",
 "glaa10_on" : "nothing",
 "gla10_off" : "nothing",
-"aa10_off" : "nothing",
+"glaa10_off" : "nothing",
 "ff9" : "/storage/emulated/0/Android/data/org.telegram.messenger/cache/50000000.jpg"}
