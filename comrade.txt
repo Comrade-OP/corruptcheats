@@ -15,7 +15,7 @@
 "msg" : "Server Is On Maintenance",
 "txt" : "CORRUPT SAFE INJECTOR",
 "url" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
-"kkk" : "CORRUPTSAFEINJECTOR",
+"kkk" : "CORRUPTINJECTORV5",
 "pth" : "/storage/emulated/0/Android/data/org.telegram.messenger/files/ff",
 "jhg" : "bullet",
 "dis" : "/sdcard/raw.ssl",
