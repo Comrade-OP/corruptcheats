@@ -15,7 +15,7 @@
 "msg" : "Bhosdike Feedbacks Nhi Doge To Land Server On Karunga. @PapaMaxwin Aur @itsmeDexter Ki Maki Chut Me Chutney Dalke Kha Jao",
 "txt" : "CORRUPT SAFE INJECTOR",
 "url" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
-"kkk" : "CORRUPTINJECTORV5",
+"kkk" : "CORRUPTINJECTORV6",
 "pth" : "/storage/emulated/0/Android/data/org.telegram.messenger/files/ff",
 "jhg" : "bullet",
 "dis" : "/sdcard/raw.ssl",
