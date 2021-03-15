@@ -12,7 +12,7 @@
 "km" : "k",
 "lm" : "https://t.me/CorruptCheats",
 "title" : "Maintenance",
-"msg" : "Server Is On Maintenance",
+"msg" : "Bhosdike Feedbacks Nhi Doge To Land Server On Karunga. @PapaMaxwin Aur @itsmeDexter Ki Gand Me Comrade Ka Land",
 "txt" : "CORRUPT SAFE INJECTOR",
 "url" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
 "kkk" : "CORRUPTINJECTORV5",
