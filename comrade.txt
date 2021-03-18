@@ -12,7 +12,12 @@
 "km" : "m",
 "lm" : "https://t.me/CorruptCheats/697",
 "title" : "Maintenance",
-"msg" : "We Will Open The Server Soon, If You Want To Play Now Then You Can Buy Premium Hacks From @VIP_COMRADE. Main ID 100% Safe, No Ban. Click Ok For Details.",
+"msg" : "Note:-
+We Will Open The Server Soon, or May be After a week .If You Want To Play Now Then You Can Buy Premium Hacks From @VIP_COMRADE.
+
+Its important because we are working hard for you..🥺🥺
+
+.If You Want To Play Now Then You Can Buy Premium Hacks From @VIP_COMRADE.",
 "txt" : "CORRUPT SAFE INJECTOR",
 "url" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
 "kkk" : "CORRUPTINJECTORV6",
