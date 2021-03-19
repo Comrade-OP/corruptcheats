@@ -2,7 +2,7 @@
 "mt" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
 "path" : "/storage/emulated/0/Android/data/org.telegram.messenger/cache",
 "bts" : "TheTczTeam",
-"f" : "u",
+"f" : "f",
 "tg" : "https://t.me/TheTczTeam",
 "jn" : "hghhjhddsgjjjj",
 "cr" : "Copyright 2021-2031 @TheTczTeam",
