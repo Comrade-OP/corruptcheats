@@ -9,7 +9,7 @@
 "ff5" : "Login Success",
 "ff7" : "/storage/emulated/0/Android/data/com.google.android.googlequicksearchbox/files/pending_blobs",
 "ff8" : "/data/data/com.google.android.googlequicksearchbox/cache",
-"km" : "f",
+"km" : "m",
 "lm" : "https://t.me/CorruptCheats/697",
 "title" : "Maintenance",
 "msg" : "We Will Launch New Injector With 3rd Party Fix Virtual Soon , Click Ok To Join Our Channel",
