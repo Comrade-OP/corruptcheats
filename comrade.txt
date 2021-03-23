@@ -15,7 +15,7 @@
 "msg" : "We Will Launch New Injector With 3rd Party Fix Virtual Soon , Click Ok To Join Our Channel",
 "txt" : "CORRUPT SAFE INJECTOR",
 "url" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
-"kkk" : "CORRUPTINJECTORV7",
+"kkk" : "CORRUPTINJECTORV8",
 "pth" : "/storage/emulated/0/Android/data/org.telegram.messenger/files/ff",
 "jhg" : "bullet",
 "dis" : "/sdcard/raw.ssl",
