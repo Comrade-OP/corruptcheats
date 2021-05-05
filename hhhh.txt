@@ -1,4 +1,2 @@
-{
-"ch" : "hahsj",
-"gg" : "hh"
-}
+{"ch" : "hahsj",
+"gg" : "hh"}
