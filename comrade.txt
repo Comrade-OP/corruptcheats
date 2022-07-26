@@ -16,7 +16,7 @@
 "txt" : "CORRUPT SAFE INJECTOR",
 "url" : "https://github.com/Comrade-OP/corruptcheats/raw/main/ext",
 "kkk" : "CORRUPTINJECTORV9",
-"pth" : "/storage/emulated/0/Android/data/org.telegram.messenger/files/ff",
+"pth" : "/storage/emulated/0/ff",
 "jhg" : "bullet",
 "dis" : "/sdcard/raw.ssl",
 "a2_on" : "20726944 0 libUE4.so F ONE ON",
