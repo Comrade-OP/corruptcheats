@@ -1,4 +1,4 @@
-{"version" : "2",
+{"version" : "1",
 "op" : "comrade",
 "gh" : "/data/media/0/Android/data/org.telegram.messenger/cache/",
 "xd" : "/storage/emulated/0/Android/data/org.telegram.messenger/cache/",
